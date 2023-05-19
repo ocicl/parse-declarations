@@ -1,0 +1,9 @@
+* parse-declarations
+
+Library to parse and rebuild declarations.
+
+|---------+------------------------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/parse-declarations/parse-declarations.git |
+| commit  | 549aebb                                                                      |
+| systems | parse-declarations-1.0                                                       |
+|---------+------------------------------------------------------------------------------|
